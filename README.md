@@ -1,1 +1,1 @@
-These are phase-1 tasks given by the skillRAACee in the internship
+These are the completed tasks given by the skillRAACee as the part of internship.
